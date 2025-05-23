@@ -24,5 +24,9 @@ This is only the frontend landing page of a website, designed to showcase modern
 1. Clone this repository
 2. Open `login.html` in your browser to view the landing page
 3. Test the login/signup toggle functionality to see the day/night transition
+## login
+![Screenshot 2025-05-23 173200](https://github.com/user-attachments/assets/4e81b371-df37-4feb-8c9c-e7d12b0be1ed)
 
+## signup
+![Screenshot 2025-05-23 173213](https://github.com/user-attachments/assets/bbe9e90b-5d12-45d8-a8d0-67d3609e398f)
 
